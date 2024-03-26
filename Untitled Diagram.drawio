@@ -1,9 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T03:43:03.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.1.0" etag="UrRPcoIc85Q8IrG_fruh" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T04:12:39.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-8YVplc7suMZmAcWF2Bj" version="24.1.0" type="github">
   <diagram name="Page-1" id="jgrMcViGBsHfd4_gPdMv">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ey2KOD_8CootJRv2RIbU-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(230, 237, 243); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-weight: 400; background-color: rgb(13, 17, 23);&quot;&gt;Usuários comuns&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;- possui carteira&lt;/p&gt;&lt;p&gt;- realiza transferencia&lt;/p&gt;&lt;p&gt;- Nome Completo&lt;/p&gt;&lt;p&gt;- cpf&lt;/p&gt;&lt;p&gt;- email&lt;/p&gt;&lt;p&gt;- senha&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(230, 237, 243); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-weight: 400; background-color: rgb(13, 17, 23);&quot;&gt;Usuários lojistas&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- possui carteira&lt;/p&gt;&lt;p&gt;- somente recebe transferencia&lt;/p&gt;&lt;p&gt;- não envia dinheiro&lt;/p&gt;&lt;p&gt;- Nome Completo&lt;/p&gt;&lt;p&gt;- cpf&lt;/p&gt;&lt;p&gt;- email&lt;/p&gt;&lt;p&gt;- senha&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(230, 237, 243); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-weight: 400; background-color: rgb(13, 17, 23);&quot;&gt;Informações unicas de ambos&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Nome Completo&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- cpf&lt;/p&gt;&lt;p&gt;- email&lt;/p&gt;&lt;p&gt;- senha&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-weight: 400; background-color: rgb(13, 17, 23);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Informações para validar&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;- se tem saldo antes da transferencia&lt;/p&gt;&lt;p&gt;-&amp;nbsp;&lt;font face=&quot;Helvetica&quot;&gt;Antes de finalizar a transferência, deve-se consultar um serviço autorizador externo&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Helvetica&quot;&gt;-&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;A operação de transferência deve ser uma transação (ou seja, revertida em qualquer caso de inconsistência) e o dinheiro deve voltar para a carteira do usuário que envia.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;;&quot;&gt;No recebimento de pagamento, o usuário ou lojista precisa receber notificação (envio de email, sms) enviada por um serviço de terceiro e eventualmente este serviço pode estar indisponível/instável. Use este mock para simular o envio&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="680" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ey2KOD_8CootJRv2RIbU-8" target="ey2KOD_8CootJRv2RIbU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-13" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ey2KOD_8CootJRv2RIbU-12">
+          <mxGeometry x="-0.2353" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-8" value="Cadastro" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-9" value="Login" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ey2KOD_8CootJRv2RIbU-10" target="ey2KOD_8CootJRv2RIbU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-15" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ey2KOD_8CootJRv2RIbU-14">
+          <mxGeometry x="-0.3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ey2KOD_8CootJRv2RIbU-10" target="ey2KOD_8CootJRv2RIbU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-18" value="se tiver saldo&lt;div&gt;consulta o autorizador&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ey2KOD_8CootJRv2RIbU-17">
+          <mxGeometry x="0.14" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-10" value="Carteira" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-11" value="Envio de e-mail/sms" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="155" y="910" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ey2KOD_8CootJRv2RIbU-16" target="ey2KOD_8CootJRv2RIbU-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-22" value="se tiver inconsistencia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ey2KOD_8CootJRv2RIbU-21">
+          <mxGeometry x="-0.12" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ey2KOD_8CootJRv2RIbU-16" target="ey2KOD_8CootJRv2RIbU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-29" value="se não tiver inconsistencia&lt;div&gt;envia e-mail de confirmação&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ey2KOD_8CootJRv2RIbU-28">
+          <mxGeometry x="-0.0316" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-16" value="Realiza transferencia" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="707" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ey2KOD_8CootJRv2RIbU-20" target="ey2KOD_8CootJRv2RIbU-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ey2KOD_8CootJRv2RIbU-20" target="ey2KOD_8CootJRv2RIbU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-27" value="envia e-mail avisando inconsistencia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ey2KOD_8CootJRv2RIbU-26">
+          <mxGeometry x="-0.3232" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey2KOD_8CootJRv2RIbU-20" value="Retorna o valor para quem enviou" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="702" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
